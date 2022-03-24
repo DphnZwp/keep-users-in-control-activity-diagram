@@ -4,7 +4,7 @@
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## User Story
-<!-- Schrijf hier de User Story waar de Activity Diagram over gaat-->
+Als potentiële partner, wil een lijst met smartzones, zodat ik weet wat er mogelijk is met een smartzone voordat ik me aansluit aan het project.
 
 ## Activity Diagram
 ![Activity Diagram](https://user-images.githubusercontent.com/69635977/159787769-7d1f8046-277a-46dd-a494-ff2dcfbfee16.jpg)
