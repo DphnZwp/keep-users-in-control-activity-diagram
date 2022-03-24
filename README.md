@@ -7,10 +7,10 @@
 <!-- Schrijf hier de User Story waar de Activity Diagram over gaat-->
 
 ## Activity Diagram
-<!-- Toon de activity Diagram -->
+![Activity Diagram](https://user-images.githubusercontent.com/69635977/159787769-7d1f8046-277a-46dd-a494-ff2dcfbfee16.jpg)
 
 ## Uitleg pseudo-code 
-<!-- Leg de pseudo-code in de control fow uit -->
+Verschillende functies voor de empty, loading, ideal en error state.
 
 
 ## Licentie
